@@ -1,0 +1,15 @@
+C:\Users\keimh\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.exe
+C:\Users\keimh\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.deps.json
+C:\Users\keimh\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.runtimeconfig.json
+C:\Users\keimh\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.dll
+C:\Users\keimh\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.pdb
+C:\Users\keimh\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.csproj.AssemblyReference.cache
+C:\Users\keimh\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keimh\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.AssemblyInfoInputs.cache
+C:\Users\keimh\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.AssemblyInfo.cs
+C:\Users\keimh\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.csproj.CoreCompileInputs.cache
+C:\Users\keimh\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.dll
+C:\Users\keimh\GameDeveloperI\obj\Debug\net6.0\refint\GameDeveloperI.dll
+C:\Users\keimh\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.pdb
+C:\Users\keimh\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.genruntimeconfig.cache
+C:\Users\keimh\GameDeveloperI\obj\Debug\net6.0\ref\GameDeveloperI.dll
